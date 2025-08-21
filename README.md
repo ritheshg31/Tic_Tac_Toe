@@ -1,1 +1,1 @@
-A simple and fun Tik Tak Toe (X and O) game built using HTML, CSS and JavaScriopt.
+A simple and fun Tic Tac Toe (X and O) game built using HTML, CSS and JavaScript.
