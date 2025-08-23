@@ -77,3 +77,15 @@ body {
 .o {
   background-color: rgba(0, 0, 0, 0.468);
 }
+
+footer {
+  text-align: center;
+  padding: 10px;
+  background-color: #002b5c;
+  color: white;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  font-size: 14px;
+}
+
